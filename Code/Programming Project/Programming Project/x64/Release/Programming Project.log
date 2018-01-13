@@ -1,0 +1,18 @@
+﻿  benchmark.cpp
+  binary_heap.cpp
+  decoder.cpp
+decoder.cpp(102): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+decoder.cpp(108): warning C4334: '<<': result of 32-bit shift implicitly converted to 64 bits (was 64-bit shift intended?)
+decoder.cpp(109): warning C4334: '<<': result of 32-bit shift implicitly converted to 64 bits (was 64-bit shift intended?)
+  encoder.cpp
+encoder.cpp(27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  four_way_heap.cpp
+  huffman.cpp
+  main.cpp
+  pairing_heap.cpp
+  utility.cpp
+  Generating code
+  All 233 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Programming Project.vcxproj -> D:\MyData\Documents\Study\UF\Courses\Advanced Data Structures\Code\Programming Project\x64\Release\Programming Project.exe
+  Programming Project.vcxproj -> D:\MyData\Documents\Study\UF\Courses\Advanced Data Structures\Code\Programming Project\x64\Release\Programming Project.pdb (Full PDB)
