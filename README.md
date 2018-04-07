@@ -1,2 +1,2 @@
 # ADS
-ADS Project
+Advanced Data Structure Course Project
